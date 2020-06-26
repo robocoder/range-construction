@@ -1,0 +1,23 @@
+# Site settings
+# https://github.com/pages-themes/tactile
+theme: jekyll-theme-tactile
+
+title: Range Construction
+description: >
+  Site Selection and Acquisition; Range Design and Construction; Operation and Maintenance
+show_downloads: false
+google_analytics: ~
+
+# Build settings
+markdown: kramdown
+exclude:
+- Gemfile
+- Gemfile.lock
+
+# Github Pages
+ghlighter: pygments
+github: [Repository metadata]
+gems:
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
